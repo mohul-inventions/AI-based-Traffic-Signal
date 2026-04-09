@@ -1,1 +1,2 @@
 An AI-based traffic signal system is an intelligent transportation technology that uses artificial intelligence (AI), computer vision, and real-time data to dynamically control traffic lights, replacing traditional fixed-timer systems. By analyzing live video feeds from cameras and data from sensors, these systems detect traffic density and adjust green-light timings instantly to reduce congestion and waiting times.
+(Ambulance Detection is not included yet)
